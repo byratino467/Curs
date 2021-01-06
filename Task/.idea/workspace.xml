@@ -35,13 +35,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Task1" />
+  <component name="RunManager" selected="Application.Task1 (1)">
+    <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionalTask1.Task1" />
       <module name="Task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="OptionalTask1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1 (1)" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
